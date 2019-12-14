@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<electricityConsumption>
+
+<racer MoveSpeed="120">Cheetah sprint</racer>
+<racer MoveSpeed="100">NL highway</racer>
+<racer MoveSpeed="300">Train</racer>
+<racer MoveSpeed="1200">Hyperloop</racer>
+<racer MoveSpeed="600">Airplane</racer>
+<racer MoveSpeed="24500">Falcon 9</racer>
+<racer MoveSpeed="1700">Desert Eagle bullet</racer>
+<racer MoveSpeed="3800">M16 Bullet</racer>
+<racer MoveSpeed="1228">ThrustSSC</racer>
+<racer MoveSpeed="745">VescoTurbinator II</racer>
+<racer MoveSpeed="722">Challenger 2</racer>
+<racer MoveSpeed="605">Ack Attack</racer>
+<racer MoveSpeed="563">JCB Dielsel</racer>
+<racer MoveSpeed="550">Venture VBB-3</racer>
+<racer MoveSpeed="1235">Speed of sound in air</racer>
+<racer MoveSpeed="12000">X43 Hyper Aircraft</racer>
+<racer MoveSpeed="7274">X15 Rocket Aircraft</racer>
+<racer MoveSpeed="6400">Cruise Missle BrahMos</racer>
+<racer MoveSpeed="39900">Apollo10</racer>
+<racer MoveSpeed="61000">Voyager 1</racer>
+<racer MoveSpeed="372">Formula One</racer>
+<racer MoveSpeed="431">Bugatti Veryon</racer>
+<racer MoveSpeed="511">Hydroplane boat</racer>
+<racer MoveSpeed="603">Maglev train</racer>
+<racer MoveSpeed="905">Airbus A380</racer>
+<racer MoveSpeed="3532">SR-71 Blackbird</racer>
+<racer MoveSpeed="27700">Spaceshuttle orbit</racer>
+<racer MoveSpeed="7270">X15-A-2 rocket</racer>
+<racer MoveSpeed="27000">Mars pathfinder</racer>
+<racer MoveSpeed="46100">Stardust NASA</racer>
+<racer MoveSpeed="10326">Super Roadrunner</racer>
+<racer MoveSpeed="574">TGV POS V150</racer>
+<racer MoveSpeed="914">Mac Plane</racer>
+<racer MoveSpeed="1693">SpiritCruizer</racer>
+<racer MoveSpeed="340">Vacuum jetpack</racer>
+<racer MoveSpeed="370">Mercedes AMGII</racer>
+<racer MoveSpeed="2520">Helios 2 (-100x)</racer>
+<racer MoveSpeed="3600">km per sec</racer>
+<racer MoveSpeed="10800">light (-10000x)</racer>
+
+
+
+<racer MoveSpeed="6">Jet</racer>
+<racer MoveSpeed="40">Train</racer>
+<racer MoveSpeed="252000">Helios 2</racer>
+<racer MoveSpeed="108000000">Light</racer>
+<racer MoveSpeed="3600">km per sec</racer>
+
+
+</electricityConsumption>
